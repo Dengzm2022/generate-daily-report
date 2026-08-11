@@ -6,6 +6,22 @@
 
 ---
 
+## 使用方式
+
+### 人类
+
+```cmd
+npx skills add https://github.com/Dengzm2022/generate-daily-report --skill generate-daily-report
+```
+
+### 智能体
+
+```txt
+Run `npx skills add https://github.com/Dengzm2022/generate-daily-report --skill "generate-daily-report"` and follow the generated skill instructions now. Read its complete output, redirecting it to a temporary file first if necessary. Resolve relative paths from the supporting-files directory it provides.
+```
+
+
+
 ## 项目简介
 
 generate-daily-report 用来生成当天的中文工作日报，固定输出四个部分：

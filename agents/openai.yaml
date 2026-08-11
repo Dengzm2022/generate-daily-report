@@ -1,7 +1,7 @@
 interface:
   display_name: 生成日报
   short_description: 同步分支并按 Git 用户记录生成中文日报
-  default_prompt: 使用 $generate-daily-report 同步所有分支，按当前 Git 用户筛选今日记录并生成中文日报。
+  default_prompt: 使用 $generate-daily-report 同步所有分支，按当前 Git 用户筛选今日记录，并用不了解项目的人也能审计的语言生成四项中文日报。
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
